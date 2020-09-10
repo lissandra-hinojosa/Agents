@@ -1,0 +1,80 @@
+C:\Users\EliteBook\Documents\SharpDevelop Projects\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.exe
+C:\Users\EliteBook\Documents\SharpDevelop Projects\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.pdb
+C:\Users\EliteBook\Documents\SharpDevelop Projects\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csprojResolveAssemblyReference.cache
+C:\Users\EliteBook\Documents\SharpDevelop Projects\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.MainForm.resources
+C:\Users\EliteBook\Documents\SharpDevelop Projects\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csproj.GenerateResource.Cache
+C:\Users\EliteBook\Documents\SharpDevelop Projects\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.exe
+C:\Users\EliteBook\Documents\SharpDevelop Projects\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.pdb
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P01\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csprojResolveAssemblyReference.cache
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P01\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.MainForm.resources
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P01\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csproj.GenerateResource.Cache
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P01\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.exe
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P01\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.exe
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P01\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.pdb
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P01\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.pdb
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P02\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.exe
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P02\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.pdb
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P02\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csprojResolveAssemblyReference.cache
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P02\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.MainForm.resources
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P02\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csproj.GenerateResource.Cache
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P02\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.exe
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P02\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.pdb
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P03\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.exe
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P03\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.pdb
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P03\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csprojResolveAssemblyReference.cache
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P03\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.MainForm.resources
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P03\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csproj.GenerateResource.Cache
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P03\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.exe
+C:\Users\EliteBook\Google Drive\UDG\Sexto Semestre\Sem. Algoritmia\P03\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csprojResolveAssemblyReference.cache
+C:\Users\HIV1GA\Desktop\Hilfe\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.MainForm.resources
+C:\Users\HIV1GA\Desktop\Hilfe\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csproj.GenerateResource.Cache
+C:\Users\HIV1GA\Desktop\Hilfe\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p01_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csprojResolveAssemblyReference.cache
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.MainForm.resources
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csproj.GenerateResource.Cache
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p01_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p03_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p03_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p03_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csprojResolveAssemblyReference.cache
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p03_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.MainForm.resources
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p03_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csproj.GenerateResource.Cache
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p03_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p03_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p05_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p05_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p05_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csprojResolveAssemblyReference.cache
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p05_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.MainForm.resources
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p05_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csproj.GenerateResource.Cache
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p05_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\p05_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\Versions\p06_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\Versions\p06_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\Versions\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csprojResolveAssemblyReference.cache
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\Versions\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.AddAgents.resources
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\Versions\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.MainForm.resources
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\Versions\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csproj.GenerateResource.Cache
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\Versions\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\Versions\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csprojResolveAssemblyReference.cache
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.AddAgents.resources
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.MainForm.resources
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csproj.GenerateResource.Cache
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.pdb
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.exe
+C:\Users\HIV1GA\Desktop\Hilfe\Sem. Algoritmia\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.pdb
+C:\Users\EliteBook\Desktop\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.exe
+C:\Users\EliteBook\Desktop\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\bin\Debug\p01_HinojosaAcosta.pdb
+C:\Users\EliteBook\Desktop\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csprojResolveAssemblyReference.cache
+C:\Users\EliteBook\Desktop\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.AddAgents.resources
+C:\Users\EliteBook\Desktop\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.MainForm.resources
+C:\Users\EliteBook\Desktop\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.csproj.GenerateResource.Cache
+C:\Users\EliteBook\Desktop\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.exe
+C:\Users\EliteBook\Desktop\Proyecto\p06_HinojosaAcosta\p01_HinojosaAcosta\obj\Debug\p01_HinojosaAcosta.pdb
